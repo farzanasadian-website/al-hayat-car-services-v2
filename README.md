@@ -1,2 +1,1 @@
-AL HAYAT CAR SERVICES bilingual multi-page website.
-Upload all files/folders in this ZIP to GitHub, replacing the old project files, then commit. Vercel will deploy automatically.
+AL HAYAT CAR SERVICES clean static website. Upload all files/folders to GitHub root. Vercel: Framework Other, Build Command empty or npm run build, Output Directory empty, Root Directory empty.

@@ -1,1 +1,1 @@
-{"scripts":{"build":"rm -rf dist && mkdir -p dist && cp -R *.html services workshop mobil1 carwash accessories lounge gallery contact ar public/* dist/","preview":"npx serve dist"},"devDependencies":{}}
+{"scripts":{"build":"echo static site ready"},"dependencies":{},"devDependencies":{}}
